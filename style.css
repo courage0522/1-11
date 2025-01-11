@@ -94,7 +94,6 @@ footer{
 .footer-menu{
     display: flex;
     justify-content: space-between;
-    width: 964.800px;
     height: 346px;
 }
 .menu{
